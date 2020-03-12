@@ -7,6 +7,8 @@ public class HospitalApplication {
 
     public static void main(String[] args) {
 
+
+
         Hospital humansInHospital = new Hospital();
 
         Employee doctor = new Doctor("Walter White", 90000, 1, 10024, false, true, "Neurology", "Doctor");
